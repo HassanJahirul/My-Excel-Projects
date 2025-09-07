@@ -5,7 +5,7 @@ The dashboard provides an analysis on different vacation packages and provides t
   
   Additionally, you can also further look at customer review to help narrow down your options.[ Click here to check it out](Project_1_Vacation_Dashboard)  
     
-![Vacation Tracker](<img width="1345" height="640" alt="vacation_dashboard" src="https://github.com/user-attachments/assets/26bb7c0f-2071-4af1-a085-776ba7f12142" />)
+![Vacation Tracker]<img width="1345" height="640" alt="vacation_dashboard" src="https://github.com/user-attachments/assets/26bb7c0f-2071-4af1-a085-776ba7f12142" />
 
 
 
