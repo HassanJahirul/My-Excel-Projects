@@ -8,4 +8,7 @@ The dashboard tries to provide an analytical view on the different vacation pack
   
 
  
-## Key Excel Skills Used
+## Key Excel Skills Used  
+- 📊Charts
+- 💽Data Validation
+- 📝Formulas
